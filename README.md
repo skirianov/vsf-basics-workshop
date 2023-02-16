@@ -3,22 +3,28 @@
 </div>
 # Vue Storefront 2 integration with Magento2
 
-Repository is a starter Vue Storefront 2 application integrated with Magento2.
+VSF Basics workshop source code and additional resources.
 
 ### Requirements:
 - NodeJS >=14 <=16
 - Yarn
 - [Magento2](https://docs.magento.com/user-guide/)
 
-### Where to start?
+## Resources
 
-To get started, see the following guides:
+- [Workshop’s Source code](https://github.com/skirianov/vsf-basics-workshop)
 
-- [Introduction](https://docs.vuestorefront.io/v2/getting-started/introduction.html) to learn what is Vue Storefront
+- [Magento 2 Integration documentation](https://docs.vuestorefront.io/magento/)
 
-- [Configuring Magento2](https://docs.vuestorefront.io/magento/installation-setup/configure-magento.html) to setup your Magento2 store
+- [Storefront UI documentation](https://docs.storefrontui.io/v1/?path=/story/welcome--page)
 
-- [Configuring VueStorefront 2](https://docs.vuestorefront.io/magento/installation-setup/configure-integration.html) to install and setup new Vue Storefront project for Magento2
+- [Overwrite queries for Magento 2 integration](https://youtu.be/ZJtX3ZsD4gs)
+
+- [Magento 2 Integration setup](https://www.youtube.com/watch?v=z9dYrc2z2IM)
+
+- [Deploy your VSF application to Digital Ocean](https://vuestorefront.io/blog/step-by-step-guide-deploying-vue-storefront-on-digitalocean)
+
+- [Community Chat](http://discord.vuestorefront.io)
 
 ### Build setup
 ```bash
@@ -32,14 +38,6 @@ $ yarn dev
 $ yarn build
 $ yarn start
 ```
-
-## Resources
-
-- [Vue Storefront Documentation](https://docs.vuestorefront.io/v2/)
-- [Vue Storefront Enterprise Documentation](https://docs.vuestorefront.io/v2/general/enterprise.html)
-- [Magento2 Integration Documentation](https://docs.vuestorefront.io/magento/)
-- [API References](https://docs.vuestorefront.io/magento/api-reference/)
-- [Community Chat](http://discord.vuestorefront.io)
 
 ## Support
 
