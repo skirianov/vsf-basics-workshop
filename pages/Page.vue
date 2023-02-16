@@ -16,7 +16,9 @@ import { usePageStore } from '~/stores/page';
 
 import CATEGORY from '~/modules/catalog/pages/category.vue';
 import CMS_PAGE from '~/pages/Cms.vue';
-import PRODUCT from '~/modules/catalog/pages/product.vue';
+// import PRODUCT from '~/modules/catalog/pages/product.vue';
+import PRODUCT from './CustomProduct.vue';
+
 
 export default defineComponent({
   name: 'PageResolver',
